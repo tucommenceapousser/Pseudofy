@@ -116,6 +116,7 @@ Kontribusi terbuka bagi siapa saja. Silakan lakukan fork repository ini dan ajuk
 Proyek ini dilisensikan di bawah [MIT License](https://github.com/RozhakXD/Pseudofy/LICENSE.md).
 
 ##
-### ❤️ **Terima Kasih!**
-Terima kasih telah menggunakan **Pseudofy - AI Generator Pseudocode**! Kami harap alat ini mempermudah Anda dalam membuat _pseudocode_ dan mempercepat proses pengembangan.
+❤️ **Terima Kasih!**
+
+Terima kasih telah menggunakan layanan **Pseudofy - AI Generator Pseudocode**! Kami harap alat ini mempermudah Anda dalam membuat _pseudocode_ dan mempercepat proses pengembangan.
 ##
