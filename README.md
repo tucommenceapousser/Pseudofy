@@ -6,8 +6,8 @@
 🔗 **Live Demo**: [Pseudofy](https://pseudofy.rozhak-dev.my.id/)
 
 ## 🚀 Fitur Utama
-- **Konversi Otomatis Kode ke Pseudocode**: Mendukung berbagai bahasa pemrograman seperti Python, Golang, JavaScript, dan banyak lagi.
 - **Desain Responsif**: Dibangun dengan HTML, CSS, dan JavaScript, sehingga nyaman diakses dari perangkat apa pun.
+- **Konversi Otomatis Kode ke Pseudocode**: Mendukung berbagai bahasa pemrograman seperti Python, Golang, JavaScript, dan banyak lagi.
 - **Backend Kuat dengan Flask**: Memastikan pemrosesan cepat dan andal.
 - **Dukungan Berbagai Bahasa Pemrograman**: Termasuk Python, Java, Golang, JavaScript, TypeScript, dan lainnya.
 - **UI Intuitif**: Mudah digunakan bahkan untuk pemula.
@@ -33,7 +33,6 @@ Pseudofy/
 ```
 
 ## 📋 Cara Instalasi dan Penggunaan
-Berikut langkah-langkah untuk menjalankan Pseudofy di local environment:
 1. **Clone repository**:
     ```bash
     git clone https://github.com/RozhakXD/Pseudofy.git
@@ -97,9 +96,9 @@ Buka browser dan kunjungi:
 Jika terjadi pesan "**Error processing request!**", Anda bisa mencoba melakukan generate ulang.
 Hal ini bisa terjadi karena:
 
+- Permintaan terlalu kompleks untuk diproses dalam satu kali percobaan.
 - Server AI mungkin tidak merespon dengan benar.
 - Terjadi gangguan sementara pada server backend.
-- Permintaan terlalu kompleks untuk diproses dalam satu kali percobaan.
 
 Jika masalah berlanjut, silakan hubungi kami melalui kontak di bawah.
 
