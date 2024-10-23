@@ -1,7 +1,7 @@
 # Pseudofy - AI Generator Pseudocode
 ![Pseudofy](https://github.com/user-attachments/assets/987fbe02-538c-43a3-bb0b-6ffd31ffbc9f)
 
-**Pseudofy** adalah platform berbasis AI untuk menghasilkan pseudocode dari kode sumber atau deskripsi masalah. Dengan antarmuka modern dan kemudahan integrasi berbagai bahasa pemrograman, Pseudofy mempermudah developer dalam membuat, memodifikasi, dan memahami algoritma.
+**Pseudofy** adalah platform berbasis AI untuk menghasilkan _pseudocode_ dari kode sumber atau deskripsi masalah. Dengan antarmuka modern dan kemudahan integrasi berbagai bahasa pemrograman, Pseudofy mempermudah developer dalam membuat, memodifikasi, dan memahami algoritma.
 
 🔗 **Live Demo**: [Pseudofy](https://pseudofy.rozhak-dev.my.id/)
 
@@ -118,5 +118,5 @@ Proyek ini dilisensikan di bawah [MIT License](https://github.com/RozhakXD/Pseud
 ##
 ❤️ **Terima Kasih!**
 
-Terima kasih telah menggunakan **Pseudofy - AI Generator Pseudocode!** Kami harap alat ini mempermudah Anda dalam membuat _pseudocode_ dan mempercepat proses pengembangan.
+Terima kasih telah memakai **Pseudofy - AI Generator Pseudocode!** Kami harap alat ini mempermudah Anda dalam membuat _pseudocode_ dan mempercepat proses pengembangan.
 ##
