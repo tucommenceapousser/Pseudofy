@@ -113,7 +113,7 @@ Jika Anda merasa Pseudofy bermanfaat, Anda dapat mendukung pengembangan lebih la
 Kontribusi terbuka bagi siapa saja. Silakan lakukan fork repository ini dan ajukan pull request.
 
 ## 📝 Lisensi
-Proyek ini dilisensikan di bawah [MIT License](https://github.com/RozhakXD/Pseudofy/LICENSE.md).
+Proyek ini dilisensikan di bawah [MIT License](https://github.com/RozhakXD/Pseudofy/blob/main/LICENSE).
 
 ##
 ❤️ **Terima Kasih!**
